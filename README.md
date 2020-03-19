@@ -1,4 +1,4 @@
-# linmusuangua
+# linmusuangua 常用的js方法
 
 ## Project setup
 ```
@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
